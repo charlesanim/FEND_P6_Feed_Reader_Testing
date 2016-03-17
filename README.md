@@ -1,9 +1,9 @@
-<h1>Feed Reader Testing - FEND Project 6</h1>
+<h1>Feed Reader Testing - FEND Project 7</h1>
 <h3>By: Charles Anim</h3>
 <br/>
 <h4>View Project</h4>
 <hr>
-<p>Follow the link to view the project: http://charlesanim.github.io/FEND_P6_Feed_Reader_Testing</p> <br/>
+<p>Follow the link to view the project: http://charlesanim.github.io/FEND_P7_Feed_Reader_Testing</p> <br/>
 <br/>
 <h4>Tests</h4> 
 <hr>
