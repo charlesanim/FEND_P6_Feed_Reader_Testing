@@ -8,11 +8,13 @@
 
 <h4>How to run this locally</h4>
 <hr>
-**Option-1 - Simple**:
-- Click "Clone in Desktop" / "Download ZIP"
-- Open the folder
-- Open `index.html` on your preferred browser
-- There should be several test results at the bottom of the screen that says "~ specs, ~ failures"
+<p>Option-1 - Simple:</p>
+<ul>
+	<li>Click "Clone in Desktop" / "Download ZIP"</li>
+	<li>Open the folder</li>
+	<li>Open `index.html` on your preferred browser</li>
+	<li>There should be several test results at the bottom of the screen that says "~ specs, ~ failures"</li>
+</ul>	
 
 **Option-2 Using Terminal and Node.js**:
 - **Pre-requisite** : Install [node.js](https://nodejs.org/),  [npm](http://blog.npmjs.org/post/85484771375/how-to-install-npm), and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
