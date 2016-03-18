@@ -5,10 +5,9 @@
 <hr>
 <p>Follow the link to view the project: http://charlesanim.github.io/FEND_P6_Feed_Reader_Testing</p> <br/>
 <br/>
-<h4>Tests</h4> 
-<hr>
 
-### How to run the this locally
+<h4>How to run this locally</h4>
+<hr>
 **Option-1 - Simple**:
 - Click "Clone in Desktop" / "Download ZIP"
 - Open the folder
@@ -21,6 +20,9 @@
 - Install [http-server](https://www.npmjs.com/package/http-server) by `npm install -g http-server`
 - Then run `http-server` in terminal inside the root of the cloned repo.
 - Go to the URL **http://localhost:8080/** in browser.
+
+<h4>Tests</h4> 
+<hr>
 
 <p>RSS Feeds:</p>
 <ul>
